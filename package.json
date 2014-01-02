@@ -1,0 +1,46 @@
+{
+  "name": "sift3",
+  "version": "0.0.1",
+  "description": "SIFT3 Algorithm",
+  "keywords": [
+    "string",
+    "string distance",
+    "distance",
+    "sift",
+    "sift3"
+  ],
+  "homepage": "https://github.com/ramitos/sift3",
+  "bugs": {
+    "url": "http://github.com/ramitos/sift3/issues",
+    "email": "mail@sergioramos.me"
+  },
+  "license": {
+    "url": "https://raw.github.com/ramitos/sift3/master/license",
+    "type": "MIT"
+  },
+  "author": "Sérgio Ramos <mail@sergioramos.me> (http://sergioramos.me)",
+  "main": "src/sift3.js",
+  "directories": {
+    "lib": "src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ramitos/sift3.git"
+  },
+  "scripts": {
+    "test": "make test test-coveralls"
+  },
+  "dependencies": {
+    "component-plus-node": "0.0.1",
+    "type-component": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha-lcov-reporter": "0.0.1",
+    "jscoverage": "~0.3.8",
+    "mocha": "~1.16.2",
+    "coveralls": "~2.6.1"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}

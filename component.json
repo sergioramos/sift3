@@ -1,0 +1,25 @@
+{
+  "name": "sift3",
+  "version": "0.0.1",
+  "description": "SIFT3 Algorithm",
+  "repo": "ramitos/sift3",
+  "keywords": [
+    "string",
+    "string distance",
+    "distance",
+    "sift",
+    "sift3"
+  ],
+  "homepage": "https://github.com/ramitos/sift3",
+  "license": "MIT",
+  "author": "Sérgio Ramos <mail@sergioramos.me> (http://sergioramos.me)",
+  "twitter": "@ramitos",
+  "main": "src/sift3.js",
+  "scripts": [
+    "src/sift3.js"
+  ],
+  "dependencies": {
+    "component/type": "*",
+    "stagas/component-plus-node": "*"
+  }
+}
