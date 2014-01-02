@@ -4,6 +4,7 @@
 [![Build Status](https://secure.travis-ci.org/ramitos/sift3.png)](http://travis-ci.org/ramitos/sift3)
 [![Dependency Status](https://gemnasium.com/ramitos/sift3.png)](https://gemnasium.com/ramitos/sift3)
 [![Coverage Status](https://coveralls.io/repos/ramitos/sift3/badge.png?branch=master)](https://coveralls.io/r/ramitos/sift3?branch=master)
+[![Code Climate](https://codeclimate.com/github/ramitos/sift3.png)](https://codeclimate.com/github/ramitos/sift3)
 
 based on [timoxley/sift](https://github.com/timoxley/sift)
 
